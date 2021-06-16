@@ -46,7 +46,7 @@ You will use all HTML, CSS, Accessibility, Responsive design, Bootstrap
 
 ## Here the final result:
 
-![alt text](https://github.com/Santiago-Gallego/holberton-smiling-school/blob/main/3c71cc99d2fc1c12a3d3.jpg)
+![alt text](https://github.com/Santiago-Gallego/holberton-smiling-school/blob/main/final.jpg)
 
 ## Author
 
